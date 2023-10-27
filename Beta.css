@@ -1,0 +1,16 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(231, 214, 214);
+}
+h1{
+    color: white;
+}
+#clock {
+    font-size: 48px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    color: aliceblue;
+  }
